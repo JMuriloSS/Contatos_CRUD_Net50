@@ -12,11 +12,11 @@ Este é um exemplo de CRUD desenvolvido em C# com:
 
 1) Cadastro de Profissionais:
 
-Ordernação e Pesquisa pelo nome e função com Paginação.
+- Ordernação e Pesquisa pelo nome e função com Paginação.
 
 2) Cadastro de Estabelecimentos:
 
-Ordernação e Pesquisa pelo nome com Paginação.
+- Ordernação e Pesquisa pelo nome com Paginação.
 
 3) Cadastro de Vínculos de Profissionais com Estabelecimentos (sem controle de duplicidade, pesquisa e paginação).
 
